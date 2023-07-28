@@ -12,3 +12,6 @@ install-sh
 stam-h1
 aclocal.m4
 autom4te.cache
+stamp-h1
+src/obexpush
+src/obexpush.o
