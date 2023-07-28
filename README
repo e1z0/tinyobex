@@ -1,0 +1,5 @@
+```
+autoreconf -i
+./configure
+make
+```

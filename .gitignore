@@ -1,0 +1,14 @@
+Makefile
+Makefile.in
+compile
+config.h
+config.h.in
+depcomp
+missing
+config.status
+config.log
+configure
+install-sh
+stam-h1
+aclocal.m4
+autom4te.cache

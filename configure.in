@@ -1,0 +1,11 @@
+AC_INIT(TinyObex, 0.1, e1z0@vintage2000.org)
+AM_INIT_AUTOMAKE
+AM_CONFIG_HEADER(config.h)
+
+AC_PROG_CC
+AC_PROG_RANLIB
+AC_PROG_INSTALL
+
+PKG_CHECK_MODULES(OBEXFTP,obexftp)
+
+AC_OUTPUT([Makefile src/Makefile])
